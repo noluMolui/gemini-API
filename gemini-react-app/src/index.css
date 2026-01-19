@@ -1,6 +1,6 @@
 
 
-/
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f0e6; 
@@ -39,7 +39,7 @@ select {
 
 button {
   padding: 0.7rem 1.5rem;
-  background-color: #6d4c41; /
+  background-color: #6d4c41; 
   color: #fff;
   border: none;
   border-radius: 6px;
